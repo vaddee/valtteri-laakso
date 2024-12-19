@@ -1,10 +1,10 @@
 
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/viberr.png';
+
 import ProjectCard from '../../common/ProjectCard';
-import freshBurger from '../../assets/fresh-burger.png';
-import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
+
+
+
 import reminder from '../../assets/Reminder_App_Icon_500x500.png';
 import vava from '../../assets/vava.png';
 import movielogo from '../../assets/movielogo.webp';
